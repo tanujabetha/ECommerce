@@ -9,3 +9,9 @@ Here's the path forward:
 3. Work on front-end.
 4. Work on Dockering.
 5. Work on deploying to AWS.
+
+
+Step 1: Learn UNX and GitHub commands, who doesn't want to be a pro at shortcuts
+
+Step 2: Install node.js
+node -v: To get the version of node
